@@ -25,6 +25,7 @@ Choose your OS, Pip, Python, and your CUDA Version
 Run the command given there with pip instead of pip3
 
 For example this is the command that works for me:
+
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
 ### Install Python Packages
