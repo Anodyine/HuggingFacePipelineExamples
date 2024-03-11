@@ -17,7 +17,7 @@ nvidia-smi
 
 If it doesn't work, you may need to update the drivers.
 
-Note the CUDA Verion in the top right.
+Note the CUDA Version in the top right.
 
 Go here:
 
